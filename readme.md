@@ -6,6 +6,8 @@ TriviaBattle is a blockchain-based competitive trivia game designed to challenge
 
 ## Contract Address
 0x6F649B39411C544c34e3e1bC1aEEdb3027B4581e
+![image](https://github.com/user-attachments/assets/d2ea948d-dd1a-4454-99fe-e5a1ad7a87ba)
+
 
 ## Project Vision
 TriviaBattle aims to create an engaging, fair, and decentralized trivia experience for participants worldwide. By leveraging the transparency and security of blockchain technology, players can trust the integrity of the competition while enjoying an innovative and entertaining gaming experience.
